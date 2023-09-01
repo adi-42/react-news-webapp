@@ -1,13 +1,12 @@
+/* Apply background color to the whole page */
 body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
-
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
-}
+    margin: 0; /* Remove default margin */
+    padding: 0; /* Remove default padding */
+    background-color: bisque;
+  }
+  
+  /* Override the background color for the navbar */
+  .navbar {
+    background-color: #dc3545; /* Or specify the original background color of the navbar */
+  }
+  
