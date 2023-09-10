@@ -6,7 +6,7 @@ Local weather and live stock information feature is to be added.
 'infinite-scroll' and 'loading-bar' npm packages have been used to improve UX.
 
 ![Landing page](./public/landingpage.png)
-<br>
+$nbsp;
 ![Dark mode page](./public/darkmode.png)
 
 In the project directory, you can run:
