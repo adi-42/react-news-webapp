@@ -5,6 +5,8 @@ A search bar is available to filter news by keywords.
 Local weather and live stock information feature is to be added.
 
 ![Landing page](./public/landingpage.png)
+<br>
+![Dark mode page](./public/darkmode.png)
 
 'infinite-scroll' and 'loading-bar' npm packages have been used to improve UX.
 
